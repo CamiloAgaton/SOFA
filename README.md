@@ -1,0 +1,2 @@
+# SOFA
+Semillero de investigación
